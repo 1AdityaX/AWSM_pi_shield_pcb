@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J4";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08";;;
+2;"J2,J3";"PinHeader_1x04_P2.54mm_Vertical";2;"Conn_01x04";;;
+3;"J6";"PinHeader_2x04_P2.54mm_Vertical";1;"Conn_02x04_Odd_Even";;;
+4;"J5";"PinHeader_2x09_P2.54mm_Vertical";1;"Conn_02x09_Odd_Even";;;
+5;"J1";"PinSocket_2x20_P2.54mm_Vertical";1;"GPIO";;;
